@@ -60,7 +60,7 @@
 <hr>
 <h2 align="center">
 <p align="center">
-  <img src="https://github.com/dihgab/dihgab/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/dihgab/dihgab/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 </br>
 </br>
