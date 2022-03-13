@@ -10,6 +10,33 @@
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/dihgab/dihgab/blob/main/1.gif">
 </div>
+<br />
+<p align="center">
+ <img src="https://badges.pufler.dev/visits/dihgab/dihgab"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/dihgab"/>
+ <img src="https://badges.pufler.dev/commits/monthly/dihgab" />
+
+<h2 align="center">
+🛠 | Languages & Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+</br>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
 
 <h2 align="center">
 📊 | This Week I Spent My Time On
@@ -32,33 +59,9 @@
 </p> 
 <hr>
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
 <p align="center">
   <img src="https://github.com/dihgab/dihgab/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
-
-
-</br>
-</br>
-</br>
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-</p>
-</br>
 </br>
 </br>
 
@@ -66,4 +69,3 @@
 
 <a href="https://www.buymeacoffee.com/dihgab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-*************
