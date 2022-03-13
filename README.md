@@ -60,8 +60,10 @@
 <hr>
 <h2 align="center">
 <p align="center">
-  <img src="https://github.com/dihgab/dihgab/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+ 
+   ![Snake animation](https://github.com/dihgab/dihgab/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 </br>
 </br>
 
