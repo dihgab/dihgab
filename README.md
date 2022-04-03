@@ -36,8 +36,8 @@
  
 <br>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dihgab&show_icons=true&theme=onedark&line_height=27f" height="190"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihgab&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" height="150">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dihgab&show_icons=true&theme=onedark&line_height=27f" height="180"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihgab&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" height="130">
 </p>
 
 <p align = "center">
