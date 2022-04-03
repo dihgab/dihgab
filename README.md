@@ -35,10 +35,9 @@
 </h2>
  
 <br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=dihgab&show_icons=true&theme=onedark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dihgab&hide=html,css,java,shaderlab,kotlin,hlsl&theme=onedark">
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dihgab&show_icons=true&theme=onedark&line_height=27f" height="190"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihgab&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" height="150">
 </p>
 
 <p align = "center">
