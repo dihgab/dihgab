@@ -36,20 +36,20 @@
  
 <br>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dihgab&show_icons=true&theme=onedark&line_height=27f" height="180"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihgab&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" height="130">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dihgab&show_icons=true&theme=onedark&line_height=27f" height="150"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihgab&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" height="150">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dihgab&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dihgab&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" height="150">
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=dihgab&theme=xcode">
+ <img src="https://activity-graph.herokuapp.com/graph?username=dihgab&theme=xcode" height="240"> 
 </p> 
 <hr>
-<h2 align="center">
-<p align="center">
+<h2 align="center"> 
+<p align="center" height="150">
  
    ![Snake animation](https://github.com/dihgab/dihgab/blob/output/github-contribution-grid-snake.svg)
  
