@@ -8,7 +8,7 @@
 
 <br />
 <div align="center">
-<img hight="1000" width="500" alt="GIF" align="center" src="https://github.com/dihgab/dihgab/blob/main/default.gif">
+<img hight="900" width="450" alt="GIF" align="center" src="https://github.com/dihgab/dihgab/blob/main/default.gif">
 </div>
 <br />
 <p align="center">
