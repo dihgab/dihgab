@@ -15,7 +15,6 @@
  <img src="https://badges.pufler.dev/visits/dihgab/dihgab"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/dihgab"/>
- <img src="https://badges.pufler.dev/commits/monthly/dihgab" />
 
 <h2 align="center">
 🛠 | Languages & Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
@@ -39,16 +38,16 @@
  
 <br>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dihgab&show_icons=true&theme=onedark&line_height=27f" height="150"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihgab&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" height="150">
+ <img  src = "https://github-readme-stats.vercel.app/api?username=dihgab&show_icons=true&theme=onedark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dihgab&hide=html,css,java,shaderlab,kotlin,hlsl&theme=onedark">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dihgab&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" height="150">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dihgab&show_icons=true&locale=en&layout=compact&theme=onedark&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=dihgab&theme=xcode" height="240"> 
+ <img src="https://activity-graph.herokuapp.com/graph?username=dihgab&theme=xcode" height="290"> 
 </p> 
 <hr>
 <h2 align="center"> 
