@@ -12,9 +12,6 @@
 </div>
 <br />
 <p align="center">
- <img src="https://badges.pufler.dev/visits/dihgab/dihgab"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/dihgab"/>
 
 <h2 align="center">
 🛠 | Languages & Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
