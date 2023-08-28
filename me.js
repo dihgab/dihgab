@@ -25,31 +25,31 @@ const questions = [
             {
                 name: `Send me an ${chalk.blueBright.bold("email")}?`,
                 value: () => {
-                    open("mailto:mrepol742@gmail.com");
+                    open("mailto:diegogabriel698@gmail.com");
                 }
             },
             {
                 name: `View my ${chalk.blueBright.bold("Portfolio")}?`,
                 value: () => {
-                    open("https://mrepol742.github.io");
+                    open("https://dihgab.github.io");
                 }
             },
             {
                 name: `View my ${chalk.blueBright.bold("Projects")}?`,
                 value: () => {
-                    open('https://mrepol742.github.io#projects');
+                    open('https://dihgab.github.io#projects');
                 }
             },
             {
                 name: `What's my ${chalk.blueBright.bold("Skills")}?`,
                 value: () => {
-                    open('https://mrepol742.github.io#skills');
+                    open('https://dihgab.github.io#skills');
                 }
             },
             {
                 name: `See my ${chalk.blueBright.bold("Friends")}?`,
                 value: () => {
-                    open('https://mrepol742.github.io#friends');
+                    open('https://dihgab.github.io#friends');
                 }
             },
             {
@@ -64,7 +64,7 @@ const questions = [
 
 const data = {
     name: chalk.bold.blue("             Melvin Jones 'Mj' Repol"),
-    handle: chalk.white("@mrepol742"),
+    handle: chalk.white("@dihgab"),
     work: `${chalk.white("Software Engineer")}`,
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan("mrepol742"),
     github: chalk.gray("https://github.com/") + chalk.cyan("mrepol742"),
