@@ -1,5 +1,5 @@
 {
-  "name": "mrepol742",
+  "name": "dihgab",
   "version": "5.0.2",
   "description": "Software Engineer",
   "main": "me.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrepol742/mrepol742.git"
+    "url": "git+https://github.com/dihgab/dihgab.git"
   },
   "keywords": [
-    "mrepol742",
+    "dihgab",
     "melvin jone repol",
     "software engineer",
     "web development",
@@ -21,15 +21,15 @@
   ],
   "author": {
     "name": "Melvin Jones Repol",
-    "email": "mrepol742@gmail.com",
-    "url": "https://mrepol742.github.io"
+    "email": "diegogabriel698@gmail.com",
+    "url": "https://dihgab.github.io"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrepol742/mrepol742/issues",
-    "email": "mrepol742@gmail.com"
+    "url": "https://github.com/dihgab/dihgab/issues",
+    "email": "diegogabriel698@gmail.com"
   },
-  "homepage": "https://github.com/mrepol742/mrepol742",
+  "homepage": "https://github.com/dihgab/dihgab",
   "dependencies": {
     "boxen": "^4.2.0",
     "chalk": "^4.1.2",
