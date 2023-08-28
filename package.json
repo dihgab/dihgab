@@ -1,0 +1,43 @@
+{
+  "name": "mrepol742",
+  "version": "5.0.2",
+  "description": "Software Engineer",
+  "main": "me.js",
+  "scripts": {
+    "start": "node me.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrepol742/mrepol742.git"
+  },
+  "keywords": [
+    "mrepol742",
+    "melvin jone repol",
+    "software engineer",
+    "web development",
+    "portfolio",
+    "profile",
+    "readme"
+  ],
+  "author": {
+    "name": "Melvin Jones Repol",
+    "email": "mrepol742@gmail.com",
+    "url": "https://mrepol742.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrepol742/mrepol742/issues",
+    "email": "mrepol742@gmail.com"
+  },
+  "homepage": "https://github.com/mrepol742/mrepol742",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.6.1",
+    "inquirer": "^7.3.3",
+    "open": "^7.4.2",
+    "ora": "^5.4.1",
+    "request": "^2.88.2"
+  }
+}
